@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/__init__.py
+studentperformance.egg-info/PKG-INFO
+studentperformance.egg-info/SOURCES.txt
+studentperformance.egg-info/dependency_links.txt
+studentperformance.egg-info/top_level.txt

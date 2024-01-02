@@ -1,0 +1,13 @@
+prefix=D:/Karthik/RN_Laptop_Backup/Karthik/Pers/Analysis/Projects/studentperformance/venv/Library
+exec_prefix=D:/Karthik/RN_Laptop_Backup/Karthik/Pers/Analysis/Projects/studentperformance/venv/Library
+libdir=D:/Karthik/RN_Laptop_Backup/Karthik/Pers/Analysis/Projects/studentperformance/venv/Library/lib
+sharedlibdir=D:/Karthik/RN_Laptop_Backup/Karthik/Pers/Analysis/Projects/studentperformance/venv/Library/lib
+includedir=D:/Karthik/RN_Laptop_Backup/Karthik/Pers/Analysis/Projects/studentperformance/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
